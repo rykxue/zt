@@ -2,6 +2,7 @@ const CACHE_NAME = 'ztype-game-v1';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
+    '/media/styles.css',
     '/main.js',
     '/media/background/stars.jpg',
     '/media/background/gradient.png',
@@ -12,8 +13,10 @@ const ASSETS_TO_CACHE = [
     '/media/nfn-phoboslab-works.png',
     '/media/ui/personal-best-badge.png',
     '/media/fonts/avenir-36-blue.png',
+    '/media/fonts/avenir-18-white.png',
     '/media/ui/bar-blue.png',
     '/media/title/ztype.png',
+    '/media/title/phoboslab.png',
     '/media/title/ship.png',
     '/media/title/exhaust.png',
     '/media/title/glitch-stripe.png',
@@ -31,6 +34,7 @@ const ASSETS_TO_CACHE = [
     '/media/sounds/target.ogg',
     '/media/ui/reticle.png',
     '/media/sprites/missle.png',
+    '/media/sprites/ship.png',
     '/media/sounds/explosion-small.ogg',
     '/media/sprites/mine.png',
     '/media/sounds/explosion.ogg',
@@ -51,6 +55,14 @@ const ASSETS_TO_CACHE = [
     '/media/ui/multi-indicator.png',
     '/media/sounds/multi-2.ogg',
     '/media/sounds/multi-3.ogg',
+    '/media/sounds/hit.ogg',
+    '/media/sounds/emp.ogg',
+    '/media/sounds/endure.ogg',
+    '/media/sounds/explosions-player.ogg',
+    '/media/sounds/spawn.ogg',
+    '/media/sounds/orientation.ogg',
+    '/media/sounds/cancel.ogg',
+    '/media/sounds/click.ogg'
 ];
 
 // Install event: Cache necessary files
