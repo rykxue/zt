@@ -1,0 +1,20 @@
+{
+    "name": "ZType - Typing Game",
+    "short_name": "ZType",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#252525",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/media/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/media/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
